@@ -1,0 +1,50 @@
+/* 
+    Created on : 11/07/2024, 4:24:45 p. m.
+    Author     : ejoha
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    padding: 5px 10px;
+}
+
+#insertar, #consultar-actualizar, #eliminar, #listar {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#insertar {
+    border-color: blue;
+}
+
+#consultar-actualizar {
+    border-color: green;
+}
+
+#eliminar {
+    border-color: orange;
+}
+
+#listar {
+    border-color: red;
+}
