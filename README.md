@@ -1,8 +1,17 @@
 
 
 ---
+## Actividad de aprendizaje GA7-220501096-AA3 - Codificar los módulos del software Stand-alone, web y
+móvil 
 
-## Lista de Chequeo
+-
+-
+-
+
+
+
+
+##  GA7-220501096-AA2-EV01 codificación de módulos del software según requerimientos del proyecto
 
 1. **Realiza conexiones con bases de datos utilizando JDBC** ✅
    La clase `paqueteloginserver` utiliza `DriverManager.getConnection(URL, USER, PASSWORD)` para establecer conexiones con la base de datos MySQL mediante JDBC.
