@@ -1,15 +1,6 @@
 
 
 ---
-## Actividad de aprendizaje GA7-220501096-AA3 - Codificar los módulos del software Stand-alone, web y
-móvil 
-
--
--
--
-
-
-
 
 ##  GA7-220501096-AA2-EV01 codificación de módulos del software según requerimientos del proyecto
 
